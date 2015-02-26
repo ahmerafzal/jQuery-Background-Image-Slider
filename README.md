@@ -2,7 +2,7 @@
 Simple and Easy to use jQuery Background Image Slider
 
 ```
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script> <br />
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script src="ahmerBgSlider.min.js"></script>
 ```
 ```
